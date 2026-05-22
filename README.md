@@ -7,4 +7,11 @@ In this project, my goal is to investigate everything related to radar systems: 
 
 I plan to use OnShape for the 3D design of the radar's housing and mechanical parts, a microcontroller programmed in C++ (such as an ESP32 or Arduino if possible) for analyzing received waves compared to emitted waves and for using a target-locking algorithm that I will try to develop myself, an external computer and monitor for displaying the radar from the data sent by the microcontroller, servos such as the MG996R for moving the antenna's X and Y axes, a parabolic reflector made of aluminum around the tip so that the microwaves bounce off the walls and become as parallel to each other as possible to maximize range and efficiency, and a power source for the magnetron, which will be coming from the magnetron's microwave.
 
+To be capable of building this device, I need a solid knowledge in different fields such as physics and mathematics:
 
+
+· Complex numbers
+· Euler's equation
+· Partial derivatives
+· Wave physics
+· Reflexion and diffraction
